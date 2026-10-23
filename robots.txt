@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://audrey-lu-golf.github.io/sitemap.xml
+Sitemap: https://audrey-lu-golf.github.io/audrey-lu-golf/sitemap.xml
